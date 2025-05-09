@@ -2,6 +2,8 @@
 
 Tervetuloa! Tämä repository kokoaa yhteen käytännön materiaalia kokonaisarkkitehtuurista ja ratkaisuarkkitehtuurista.
 
+💡 Sisältöä lisätään pian – pysy kuulolla!
+
 ## 📚 Mitä löydät täältä?
 
 - Mallipohjia ja esimerkkejä arkkitehtuurikuvauksista
