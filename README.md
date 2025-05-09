@@ -19,4 +19,4 @@ Tämä materiaali sopii sinulle, jos:
 
 ## 📜 Lisenssi
 
-Tämän repositoryn sisältö on lisensoitu [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) -lisenssillä. KAtso myös LICENSE-tiedosto.
+Tämän repositoryn sisältö on lisensoitu [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) -lisenssillä. Katso myös LICENSE-tiedosto.
