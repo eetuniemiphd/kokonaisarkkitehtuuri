@@ -1,4 +1,4 @@
-# Julkiset esitykset
+# Julkiset esitykset kokonaisarkkitehtuurista suomeksi
 **Eetu Niemi**
 
 ---
