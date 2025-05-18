@@ -23,6 +23,10 @@ Tämä materiaali sopii sinulle, jos:
 
 [Julkiset esitykseni kokonaisarkkitehtuurista suomeksi](https://github.com/eetuniemiphd/kokonaisarkkitehtuuri/blob/main/julkiset-esitykset-eetu-niemi.md)
 
+## 🔗 Hyödyllisiä materiaaleja
+
+- Niemi, E., Aaltonen, A. & Forsblom, O. 2022. *Kokonais- ja ratkaisuarkkitehtuurin mallinnuskäsikirja (Modeling Handbook for Enterprise and Solution Architecture)*. Coala. [Download publication from Coala's webpage (PDF)](https://coala.fi/ajankohtaista/lataukset)
+
 ## 🔗 Pikalinkit
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eetuniemiphd)
