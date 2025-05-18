@@ -19,10 +19,14 @@ Tämä materiaali sopii sinulle, jos:
 - vastaat organisaation kehittämisestä tai suunnittelusta
 - kaipaat käytännön esimerkkejä arkkitehtuurityön tueksi
 
-## 🔗 Linkit ja sisällöt
+## 🔗 Julkiset esitykset
+
+[Julkiset esitykseni kokonaisarkkitehtuurista suomeksi](https://github.com/eetuniemiphd/kokonaisarkkitehtuuri/blob/main/julkiset-esitykset-eetu-niemi.md)
+
+## 🔗 Pikalinkit
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eetuniemiphd)
-- 🏠 [Kotisivu](https://eetuniemi.net)
+- 🏠 [Kotisivu](https://eetuniemi.fi)
 - 📖 [Enterprise Architecture: Your Guide to Organizational Transformation (upcoming book, EN)](https://enterprisearchitectureguide.com)
 - 📚 [Kokonaisarkkitehtuuri – Oppaasi organisaation muutosmatkalla (book, FI)](https://kokonaisarkkitehtuuri.com)
 - 📒📘 [IT Consulting Career Books – Two practical guides for professionals (book, EN)](https://itconsulting.carrd.co)
