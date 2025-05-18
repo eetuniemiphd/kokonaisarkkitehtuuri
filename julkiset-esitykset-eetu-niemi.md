@@ -12,9 +12,10 @@
 
 - **8.12.2020 – Coala-webinaari (Oppia.fi)**: *Miten voit arvioida kokonaisarkkitehtuurin työmäärän?* [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/839/coala/miten-voit-arvioida-kokonaisarkkitehtuurin-tyomaaran)
 
+- **27.10.2020 – Coala-webinaari (Oppia.fi)**: *Kokonaisarkkitehtuuria äärellisellä työllä* [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/768/coala/kokonaisarkkitehtuuria-aarellisella-tyolla)
 
+- **25.8.2020 – Coala-webinaari (Oppia.fi)**: *Tiedonhallintamallin kuvaaminen arkkitehtuurilla* [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/769/coala/tiedonhallintamallin-kuvaaminen-arkkitehtuurilla)
 
-
-
+- **5.5.2020 – Coala-webinaari (Oppia.fi)**: *Onko kokonaisarkkitehtuuritoimintosi hyödyllinen?* [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/665/coala/onko-kokonaisarkkitehtuuritoimintosi-hyodyllinen)
 
 > Sisältöä ollaan lisäämässä
