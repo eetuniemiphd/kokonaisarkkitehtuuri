@@ -3,6 +3,8 @@
 
 [Kotisivu](https://eetuniemi.fi)
 
+> Sisältöä ollaan lisäämässä
+
 ---
 
 - **18.6.2024 – Arkkitehtuurikillan Q2/2024-tapaaminen (DVV)**: *Kyvykkyydet kokonaisarkkitehtuurissa* [Tallenne ja esitysmateriaali (PDF)](https://kehittajille.suomi.fi/palvelut/kokonaisarkkitehtuuri/koulutusmateriaalit)
@@ -19,4 +21,10 @@
 
 - **5.5.2020 – Coala-webinaari (Oppia.fi)**: *Onko kokonaisarkkitehtuuritoimintosi hyödyllinen?* [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/665/coala/onko-kokonaisarkkitehtuuritoimintosi-hyodyllinen)
 
-> Sisältöä ollaan lisäämässä
+- **4.2.2020 – Coala-webinaari (Oppia.fi)**: *Tiedonhallintamallin kuvaaminen konkreettisesti* [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/664/coala/tiedonhallintamallin-kuvaaminen-konkreettisesti)
+
+- **1.10.2019 – Coala-webinaari (Oppia.fi)**: *Projekti tehokkaasti käyntiin kokonaisarkkitehtuurikuvauksilla* [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/590/coala/projekti-tehokkaasti-kayntiin-kokonaisarkkitehtuurikuvauksilla)
+
+- **7.5.2019 – Coala-webinaari (Oppia.fi)**: *Ratkaisuarkkitehtuurin kuvaaminen käytännössä* [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/504/coala/ratkaisuarkkitehtuurin-kuvaaminen-kaytannossa)
+
+- **3.4.2019 – Coala-webinaari (Oppia.fi)**: *Kokonaisarkkitehtuurin onnistunut käynnistys pilotoinnilla* [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/503/coala/kokonaisarkkitehtuurin-onnistunut-kaynnistys-pilotoinnilla)
