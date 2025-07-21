@@ -1,9 +1,11 @@
-# Julkiset esitykset kokonaisarkkitehtuurista suomeksi
+# Julkiset esitykset ja esiintymiset suomeksi
 **Eetu Niemi**
 
 [Kotisivu](https://eetuniemi.fi)
 
 ---
+
+## Esitykset
 
 - **18.6.2024 – Arkkitehtuurikillan Q2/2024-tapaaminen (DVV)**: *Kyvykkyydet kokonaisarkkitehtuurissa* [Tallenne ja esitysmateriaali (PDF)](https://kehittajille.suomi.fi/palvelut/kokonaisarkkitehtuuri/koulutusmateriaalit)
 
@@ -37,4 +39,8 @@
 
 - **11.10.2017 – Coala-webinaari (Oppia.fi)**: *Kokonaisarkkitehtuurin hyödyt* [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/138/coala/webinaari-kokonaisarkkitehtuurin-hyodyt)
 
-- **25.8.2017 – Coala-webinaari (Oppia.fi)**: *IAM:sta apua GDPR-valmistautumiseen*  [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/135/coala/iamsta-apua-gdpr-valmistautumiseen)
+- **25.8.2017 – Coala-webinaari (Oppia.fi)**: *IAM:sta apua GDPR-valmistautumiseen* [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/135/coala/iamsta-apua-gdpr-valmistautumiseen)
+
+## Esiintymiset
+
+- **27.6.2021 - Koodarikuiskaajan podcast**: *Suorinta reittiä unelmatyöhön IT-konsultiksi* [Tallenne ja lisätiedot](https://koodarikuiskaaja.fi/podcast/suorinta-reittia-unelmatyohon-it-konsultiksi)
