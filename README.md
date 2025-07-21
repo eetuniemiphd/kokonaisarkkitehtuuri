@@ -21,7 +21,7 @@ Tämä materiaali sopii sinulle, jos:
 
 ## 🔗 Julkiset esitykset
 
-[Julkiset esitykseni kokonaisarkkitehtuurista suomeksi](https://github.com/eetuniemi/presentations-eetu-niemi.md)
+[Julkiset esitykseni kokonaisarkkitehtuurista suomeksi](https://github.com/eetuniemiphd/eetuniemi/blob/main/presentations-eetu-niemi.md)
 
 ## 🔗 Hyödyllisiä materiaaleja
 
