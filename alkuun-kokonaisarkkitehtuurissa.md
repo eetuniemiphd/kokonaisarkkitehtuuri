@@ -33,6 +33,7 @@ Aloita kevyesti ja käytännönläheisesti – sinun ei tarvitse ottaa käyttö�
 **💡 Haluatko syventyä aiheeseen?**
 
 Lue koko blogikirjoitus, jossa nämä viisi askelta avataan käytännön esimerkein:
+
 📖 [Viisi askelta kokonaisarkkitehtuurityön käynnistämiseen](https://www.almainsights.fi/blogi/viisi-askelta-kokonaisarkkitehtuurityon-kaynnistamiseen)
 
 **📚 Lisää käytännön ohjeita:**
