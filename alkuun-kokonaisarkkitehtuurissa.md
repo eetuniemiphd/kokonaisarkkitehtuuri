@@ -1,4 +1,4 @@
-## Kuinka pääsen alkuun kokonaisarkkitehtuurissa?
+# Kuinka pääsen alkuun kokonaisarkkitehtuurissa?
 
 Aloita kevyesti ja käytännönläheisesti – sinun ei tarvitse ottaa käyttöön raskaita viitekehyksiä. Tässä viisi askelta alkuun:
 
