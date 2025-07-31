@@ -19,6 +19,10 @@ Tämä materiaali sopii sinulle, jos:
 - vastaat organisaation kehittämisestä tai suunnittelusta
 - kaipaat käytännön esimerkkejä arkkitehtuurityön tueksi
 
+## 🚀 Ohjeita ja vinkkejä
+
+[Kuinka pääsen alkuun kokonaisarkkitehtuurissa?](https://github.com/eetuniemiphd/eetuniemi/blob/main/alkuun-kokonaisarkkitehtuurissa.md)
+
 ## 🔗 Julkiset esitykset
 
 [Julkiset esitykseni kokonaisarkkitehtuurista suomeksi](https://github.com/eetuniemiphd/eetuniemi/blob/main/presentations-eetu-niemi.md)
