@@ -32,3 +32,5 @@ Aloita kevyesti ja käytännönläheisesti – sinun ei tarvitse ottaa käyttö�
 📘 *[Kokonaisarkkitehtuuri – Oppaasi organisaation muutosmatkalla](https://kokonaisarkkitehtuuri.com)*
 
 📄 *Kokonais- ja ratkaisuarkkitehtuurin mallinnuskäsikirja*. [Lataa julkaisu Coalan sivuilta (PDF)](https://coala.fi/ajankohtaista/lataukset)
+
+[Myös julkisissa esityksissäni on runsaasti käytännön näkökulmia kokonaisarkkitehtuuriin](https://github.com/eetuniemiphd/eetuniemi/blob/main/presentations-eetu-niemi.md)
