@@ -33,4 +33,4 @@ Aloita kevyesti ja käytännönläheisesti – sinun ei tarvitse ottaa käyttö�
 
 📄 *Kokonais- ja ratkaisuarkkitehtuurin mallinnuskäsikirja*. [Lataa julkaisu Coalan sivuilta (PDF)](https://coala.fi/ajankohtaista/lataukset)
 
-[Myös julkisissa esityksissäni on runsaasti käytännön näkökulmia kokonaisarkkitehtuuriin](https://github.com/eetuniemiphd/eetuniemi/blob/main/presentations-eetu-niemi.md)
+Myös [julkisissa esityksissäni](https://github.com/eetuniemiphd/eetuniemi/blob/main/presentations-eetu-niemi.md) on runsaasti käytännön näkökulmia kokonaisarkkitehtuuriin
