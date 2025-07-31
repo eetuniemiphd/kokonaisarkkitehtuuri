@@ -49,6 +49,7 @@ Aloita kevyesti ja käytännönläheisesti – sinun ei tarvitse ottaa käyttö�
   - Arvioi ja kehitä työtapoja jatkuvasti
 
 **Lisää käytännön ohjeita:**
+
 📘 *[Kokonaisarkkitehtuuri – Oppaasi organisaation muutosmatkalla]* (https://kokonaisarkkitehtuuri.com)
 📄 *Kokonais- ja ratkaisuarkkitehtuurin mallinnuskäsikirja*. [Lataa julkaisu Coalan sivuilta (PDF)](https://coala.fi/ajankohtaista/lataukset)
 
