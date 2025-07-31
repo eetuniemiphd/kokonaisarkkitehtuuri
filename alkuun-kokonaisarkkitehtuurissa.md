@@ -4,15 +4,18 @@ Aloita kevyesti ja käytännönläheisesti – sinun ei tarvitse ottaa käyttö�
 
 - **Määritä suunta ja työtavat**
   - Kartoita nykytilan haasteet ja tarpeet, joihin kokonaisarkkitehturi voisi vastata
-  - Aseta tavoitteet: miksi kokonaisarkkkitehtuurityötä tehdään?
-  - Nimeä omistaja ja sponsorit
-  - Päätä, missä ja miten kuvauksia käytetään
+  - Aseta tavoitteet: miksi kokonaisarkkkitehtuurityötä tehdään ja mitä sillä tavoitellaan?
+  - Nimeä kokonaisarkkitehtuurin omistaja tai sponsori (mieluiten ylimmästä johdosta)
+  - Nimeä vastuuhenkilöt ja tiimi: kuka tekee työtä ja miten roolit jakautuvat?
+  - Valitse toimintatavat: kytke arkkitehtuurityö osaksi olemassa olevia kehitys- ja suunnitteluprosesseja
+  - Valitse työkalut: aloita yksinkertaisesti – esim. Office-työkalut ja ilmainen Archi
+  - Päätä, missä ja miten kuvauksia hyödynnetään (aloita kehittämisestä, kuten IT-projekteista)
   - Suunnittele kevyt kuvaustapa. Aloita kolmella peruskuvauksella: toiminta, tiedot ja tietojärjestelmät
 
 - **Tee kevyt etenemissuunnitelma**
-  - Määritä, mitä kuvataan ja milloin
+  - Määritä, mitä kuvauksia laaditaan ja millä aikataululla
   - Suunnittele, miten kokonaisarkkitehtuuri liitetään kehittämiseen ja päätöksentekoon
-  - Aikatauluta työkalujen ja prosessien kehitys
+  - Aikatauluta myös arkkitehtuurin työkalujen ja toimintatapojen kehittäminen
 
 - **Perusta pieni työryhmä**
   - Kokoa alle 10 hengen tiimi (esim. arkkitehdit, kehittämispäälliköt, sponsorit)
@@ -23,11 +26,16 @@ Aloita kevyesti ja käytännönläheisesti – sinun ei tarvitse ottaa käyttö�
   - Pidä fokus suunnittelun ja päätöksenteon tukemisessa
 
 - **Varmista jatkuvuus**
-  - Nimeä vastuuhenkilö ja tee vuosikello päivityksille
+  - Tee vuosikello päivityksille ja muille toistuville tehtäville
   - Viesti työn etenemisestä ja hyödyistä
   - Arvioi ja kehitä työtapoja jatkuvasti
+ 
+**💡 Haluatko syventyä aiheeseen?**
 
-**Lisää käytännön ohjeita:**
+Lue koko blogikirjoitus, jossa nämä viisi askelta avataan käytännön esimerkein:
+📖 [Viisi askelta kokonaisarkkitehtuurityön käynnistämiseen](https://www.almainsights.fi/blogi/viisi-askelta-kokonaisarkkitehtuurityon-kaynnistamiseen)
+
+**📚 Lisää käytännön ohjeita:**
 
 📘 *[Kokonaisarkkitehtuuri – Oppaasi organisaation muutosmatkalla](https://kokonaisarkkitehtuuri.com)*
 
