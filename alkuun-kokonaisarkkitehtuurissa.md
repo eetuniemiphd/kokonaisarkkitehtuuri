@@ -1,6 +1,8 @@
 # Kuinka pääsen alkuun kokonaisarkkitehtuurissa?
 
-Aloita kevyesti ja käytännönläheisesti – sinun ei tarvitse ottaa käyttöön raskaita viitekehyksiä. Tässä viisi askelta alkuun:
+Aloita kevyesti ja käytännönläheisesti – sinun ei tarvitse ottaa käyttöön raskaita viitekehyksiä tai työkaluja.
+
+Tässä viisi askelta alkuun:
 
 - **Määritä suunta ja työtavat**
   - Kartoita nykytilan haasteet ja tarpeet, joihin kokonaisarkkitehturi voisi vastata
