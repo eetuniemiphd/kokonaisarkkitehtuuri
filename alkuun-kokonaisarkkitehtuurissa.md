@@ -38,8 +38,6 @@ Lue koko blogikirjoitus, jossa nämä viisi askelta avataan käytännön esimerk
 
 **📚 Lisää käytännön ohjeita:**
 
-📘 *[Kokonaisarkkitehtuuri – Oppaasi organisaation muutosmatkalla](https://kokonaisarkkitehtuuri.com)*
-
-📄 *Kokonais- ja ratkaisuarkkitehtuurin mallinnuskäsikirja*. [Lataa julkaisu Coalan sivuilta (PDF)](https://coala.fi/ajankohtaista/lataukset)
-
-Myös [julkisissa esityksissäni](https://github.com/eetuniemiphd/eetuniemi/blob/main/presentations-eetu-niemi.md) on runsaasti käytännön näkökulmia kokonaisarkkitehtuuriin
+- 📘 *[Kokonaisarkkitehtuuri – Oppaasi organisaation muutosmatkalla](https://kokonaisarkkitehtuuri.com)*
+- 📄 *Kokonais- ja ratkaisuarkkitehtuurin mallinnuskäsikirja*. [Lataa julkaisu Coalan sivuilta (PDF)](https://coala.fi/ajankohtaista/lataukset)
+- Myös [julkisissa esityksissäni](https://github.com/eetuniemiphd/eetuniemi/blob/main/presentations-eetu-niemi.md) on runsaasti käytännön näkökulmia kokonaisarkkitehtuuriin
