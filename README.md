@@ -21,7 +21,7 @@ Tämä materiaali sopii sinulle, jos:
 
 ## 🚀 Ohjeita ja vinkkejä
 
-[Kuinka pääsen alkuun kokonaisarkkitehtuurissa?](https://github.com/eetuniemiphd/eetuniemi/blob/main/alkuun-kokonaisarkkitehtuurissa.md)
+[Kuinka pääsen alkuun kokonaisarkkitehtuurissa?](./alkuun-kokonaisarkkitehtuurissa.md)
 
 ## 🔗 Julkiset esitykset
 
