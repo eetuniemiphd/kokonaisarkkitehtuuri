@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model xmlns="http://www.opengroup.org/xsd/archimate/3.0/"
+       xmlns:dc="http://purl.org/dc/elements/1.1/"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.opengroup.org/xsd/archimate/3.0/ http://www.opengroup.org/xsd/archimate/3.1/archimate3_Diagram.xsd http://purl.org/dc/elements/1.1/ http://www.opengroup.org/xsd/archimate/3.1/dc.xsd"
+       identifier="id-ec1f3a8adaa745448f4acdfbae3e62a9">
+
+  <name xml:lang="fi">Meijeri</name>
+
+  <metadata>
+    <schema>Dublin Core</schema>
+    <schemaversion>1.1</schemaversion>
+    <dc:title>Meijeri</dc:title>
+    <dc:creator>Eetu Niemi</dc:creator>
+  </metadata>
+  
+  <!-- ELEMENTS -->
+  <elements>
+
+    <!-- CAPABILITIES -->
+    <element identifier="cap-C1" xsi:type="Capability">
+      <name xml:lang="fi">Strateginen johtaminen</name>
+    </element>
+
+    <element identifier="cap-C2" xsi:type="Capability">
+      <name xml:lang="fi">Tuote- ja portfolionhallinta</name>
+    </element>
+
+    <element identifier="cap-C3" xsi:type="Capability">
+      <name xml:lang="fi">Vastuullisuus ja jäljitettävyys</name>
+    </element>
+
+    <element identifier="cap-C4" xsi:type="Capability">
+      <name xml:lang="fi">Talouden ohjaus</name>
+    </element>
+
+    <element identifier="cap-C5" xsi:type="Capability">
+      <name xml:lang="fi">Raakamaidon hankinta</name>
+    </element>
+
+    <element identifier="cap-C6" xsi:type="Capability">
+      <name xml:lang="fi">Toimittajahallinta</name>
+    </element>
+
+    <element identifier="cap-C7" xsi:type="Capability">
+      <name xml:lang="fi">Tuotantosuunnittelu</name>
+    </element>
+
+    <element identifier="cap-C8" xsi:type="Capability">
+      <name xml:lang="fi">Maidonkäsittely ja jalostus</name>
+    </element>
+
+    <element identifier="cap-C9" xsi:type="Capability">
+      <name xml:lang="fi">Laadunhallinta</name>
+    </element>
+
+    <element identifier="cap-C10" xsi:type="Capability">
+      <name xml:lang="fi">Pakkaus ja merkintä</name>
+    </element>
+
+    <element identifier="cap-C11" xsi:type="Capability">
+      <name xml:lang="fi">Varastonhallinta</name>
+    </element>
+
+    <element identifier="cap-C12" xsi:type="Capability">
+      <name xml:lang="fi">Jakelu ja logistiikka</name>
+    </element>
+
+    <element identifier="cap-C13" xsi:type="Capability">
+      <name xml:lang="fi">Asiakashallinta</name>
+    </element>
+
+    <element identifier="cap-C14" xsi:type="Capability">
+      <name xml:lang="fi">Tilausten käsittely</name>
+    </element>
+
+    <element identifier="cap-C15" xsi:type="Capability">
+      <name xml:lang="fi">Myynti ja hinnoittelu</name>
+    </element>
+
+    <element identifier="cap-C16" xsi:type="Capability">
+      <name xml:lang="fi">Taloushallinto</name>
+    </element>
+
+    <element identifier="cap-C17" xsi:type="Capability">
+      <name xml:lang="fi">Hankinta</name>
+    </element>
+
+    <element identifier="cap-C18" xsi:type="Capability">
+      <name xml:lang="fi">Henkilöstöhallinto</name>
+    </element>
+
+    <element identifier="cap-C19" xsi:type="Capability">
+      <name xml:lang="fi">IT-palvelunhallinta</name>
+    </element>
+
+    <element identifier="cap-C20" xsi:type="Capability">
+      <name xml:lang="fi">Laitteiden kunnossapito</name>
+    </element>
+
+    <element identifier="cap-C21" xsi:type="Capability">
+      <name xml:lang="fi">Data ja raportointi</name>
+    </element>
+
+    <!-- APPLICATIONS -->
+    <element identifier="app-S1" xsi:type="ApplicationComponent">
+      <name xml:lang="fi">ERP</name>
+      <properties>
+        <property propertyDefinitionRef="propid-elinkaari">
+          <value xml:lang="fi">Active</value>
+        </property>
+        <property propertyDefinitionRef="propid-omistaja">
+          <value xml:lang="fi">CIO</value>
+        </property>
+        <property propertyDefinitionRef="propid-kuvaus">
+          <value xml:lang="fi">Toiminnanohjaus: talous, hankinta, varasto, tuotanto</value>
+        </property>
+      </properties>
+    </element>
+
+    <element identifier="app-S2" xsi:type="ApplicationComponent">
+      <name xml:lang="fi">MES</name>
+      <properties>
+        <property propertyDefinitionRef="propid-elinkaari">
+          <value xml:lang="fi">Active</value>
+        </property>
+        <property propertyDefinitionRef="propid-omistaja">
+          <value xml:lang="fi">Production Director</value>
+        </property>
+        <property propertyDefinitionRef="propid-kuvaus">
+          <value xml:lang="fi">Tuotannonohjaus ja prosessiseuranta</value>
+        </property>
+      </properties>
+    </element>
+
+    <element identifier="app-S3" xsi:type="ApplicationComponent">
+      <name xml:lang="fi">LIMS</name>
+      <properties>
+        <property propertyDefinitionRef="propid-elinkaari">
+          <value xml:lang="fi">Active</value>
+        </property>
+        <property propertyDefinitionRef="propid-omistaja">
+          <value xml:lang="fi">Quality Director</value>
+        </property>
+        <property propertyDefinitionRef="propid-kuvaus">
+          <value xml:lang="fi">Laboratorio- ja laadunhallinta</value>
+        </property>
+      </properties>
+    </element>
+
+    <element identifier="app-S4" xsi:type="ApplicationComponent">
+      <name xml:lang="fi">CRM</name>
+      <properties>
+        <property propertyDefinitionRef="propid-elinkaari">
+          <value xml:lang="fi">Active</value>
+        </property>
+        <property propertyDefinitionRef="propid-omistaja">
+          <value xml:lang="fi">Sales Director</value>
+        </property>
+        <property propertyDefinitionRef="propid-kuvaus">
+          <value xml:lang="fi">Asiakkuudenhallinta</value>
+        </property>
+      </properties>
+    </element>
+
+    <element identifier="app-S5" xsi:type="ApplicationComponent">
+      <name xml:lang="fi">WMS</name>
+      <properties>
+        <property propertyDefinitionRef="propid-elinkaari">
+          <value xml:lang="fi">Active</value>
+        </property>
+        <property propertyDefinitionRef="propid-omistaja">
+          <value xml:lang="fi">Supply Chain Director</value>
+        </property>
+        <property propertyDefinitionRef="propid-kuvaus">
+          <value xml:lang="fi">Varastonhallinta</value>
+        </property>
+      </properties>
+    </element>
+
+    <element identifier="app-S6" xsi:type="ApplicationComponent">
+      <name xml:lang="fi">TMS</name>
+      <properties>
+        <property propertyDefinitionRef="propid-elinkaari">
+          <value xml:lang="fi">Active</value>
+        </property>
+        <property propertyDefinitionRef="propid-omistaja">
+          <value xml:lang="fi">Logistics Director</value>
+        </property>
+        <property propertyDefinitionRef="propid-kuvaus">
+          <value xml:lang="fi">Kuljetustenhallinta</value>
+        </property>
+      </properties>
+    </element>
+
+    <element identifier="app-S7" xsi:type="ApplicationComponent">
+      <name xml:lang="fi">PLM</name>
+      <properties>
+        <property propertyDefinitionRef="propid-elinkaari">
+          <value xml:lang="fi">Active</value>
+        </property>
+        <property propertyDefinitionRef="propid-omistaja">
+          <value xml:lang="fi">R&amp;D Director</value>
+        </property>
+        <property propertyDefinitionRef="propid-kuvaus">
+          <value xml:lang="fi">Tuote- ja reseptinhallinta</value>
+        </property>
+      </properties>
+    </element>
+
+    <element identifier="app-S8" xsi:type="ApplicationComponent">
+      <name xml:lang="fi">BI</name>
+      <properties>
+        <property propertyDefinitionRef="propid-elinkaari">
+          <value xml:lang="fi">Active</value>
+        </property>
+        <property propertyDefinitionRef="propid-omistaja">
+          <value xml:lang="fi">CFO</value>
+        </property>
+        <property propertyDefinitionRef="propid-kuvaus">
+          <value xml:lang="fi">Raportointi ja analytiikka</value>
+        </property>
+      </properties>
+    </element>
+
+    <element identifier="app-S9" xsi:type="ApplicationComponent">
+      <name xml:lang="fi">HRM</name>
+      <properties>
+        <property propertyDefinitionRef="propid-elinkaari">
+          <value xml:lang="fi">Active</value>
+        </property>
+        <property propertyDefinitionRef="propid-omistaja">
+          <value xml:lang="fi">HR Director</value>
+        </property>
+        <property propertyDefinitionRef="propid-kuvaus">
+          <value xml:lang="fi">Henkilöstöhallinta</value>
+        </property>
+      </properties>
+    </element>
+
+    <element identifier="app-S10" xsi:type="ApplicationComponent">
+      <name xml:lang="fi">EAM</name>
+      <properties>
+        <property propertyDefinitionRef="propid-elinkaari">
+          <value xml:lang="fi">Active</value>
+        </property>
+        <property propertyDefinitionRef="propid-omistaja">
+          <value xml:lang="fi">Operations Director</value>
+        </property>
+        <property propertyDefinitionRef="propid-kuvaus">
+          <value xml:lang="fi">Kunnossapitojärjestelmä</value>
+        </property>
+      </properties>
+    </element>
+
+    <element identifier="app-S11" xsi:type="ApplicationComponent">
+      <name xml:lang="fi">EDI_Gateway</name>
+      <properties>
+        <property propertyDefinitionRef="propid-elinkaari">
+          <value xml:lang="fi">Active</value>
+        </property>
+        <property propertyDefinitionRef="propid-omistaja">
+          <value xml:lang="fi">CIO</value>
+        </property>
+        <property propertyDefinitionRef="propid-kuvaus">
+          <value xml:lang="fi">Tilaus- ja laskusanomaliikenne</value>
+        </property>
+      </properties>
+    </element>
+
+    <element identifier="app-S12" xsi:type="ApplicationComponent">
+      <name xml:lang="fi">Sustainability_DB</name>
+      <properties>
+        <property propertyDefinitionRef="propid-elinkaari">
+          <value xml:lang="fi">Emerging</value>
+        </property>
+        <property propertyDefinitionRef="propid-omistaja">
+          <value xml:lang="fi">Sustainability Officer</value>
+        </property>
+        <property propertyDefinitionRef="propid-kuvaus">
+          <value xml:lang="fi">Vastuullisuus- ja ESG-data</value>
+        </property>
+      </properties>
+    </element>
+
+    <!-- DATA OBJECTS -->
+    <element identifier="data-D1" xsi:type="DataObject">
+      <name xml:lang="fi">Tuotetiedot</name>
+    </element>
+
+    <element identifier="data-D2" xsi:type="DataObject">
+      <name xml:lang="fi">Reseptit</name>
+    </element>
+
+    <element identifier="data-D3" xsi:type="DataObject">
+      <name xml:lang="fi">Tuotantotilaukset</name>
+    </element>
+
+    <element identifier="data-D4" xsi:type="DataObject">
+      <name xml:lang="fi">Laatutulokset</name>
+    </element>
+
+    <element identifier="data-D5" xsi:type="DataObject">
+      <name xml:lang="fi">Varastosaldot</name>
+    </element>
+
+    <element identifier="data-D6" xsi:type="DataObject">
+      <name xml:lang="fi">Asiakastiedot</name>
+    </element>
+
+    <element identifier="data-D7" xsi:type="DataObject">
+      <name xml:lang="fi">Myyntitilaukset</name>
+    </element>
+
+    <element identifier="data-D8" xsi:type="DataObject">
+      <name xml:lang="fi">Taloustapahtumat</name>
+    </element>
+
+    <element identifier="data-D9" xsi:type="DataObject">
+      <name xml:lang="fi">Henkilöstötiedot</name>
+    </element>
+
+    <element identifier="data-D10" xsi:type="DataObject">
+      <name xml:lang="fi">Kunnossapitotiedot</name>
+    </element>
+
+    <element identifier="data-D11" xsi:type="DataObject">
+      <name xml:lang="fi">ESG-mittarit</name>
+    </element>
+
+  </elements>
+
+  <!-- RELATIONSHIPS -->
+  <relationships>
+
+    <!-- Application realizes Capability -->
+    <relationship identifier="r1" xsi:type="Realization" source="app-S1" target="cap-C4">
+      <name xml:lang="fi">ERP -> Talouden ohjaus</name>
+    </relationship>
+
+    <relationship identifier="r2" xsi:type="Realization" source="app-S1" target="cap-C7">
+      <name xml:lang="fi">ERP -> Tuotantosuunnittelu</name>
+    </relationship>
+
+    <relationship identifier="r3" xsi:type="Realization" source="app-S2" target="cap-C7">
+      <name xml:lang="fi">MES -> Tuotantosuunnittelu</name>
+    </relationship>
+
+    <relationship identifier="r4" xsi:type="Realization" source="app-S2" target="cap-C8">
+      <name xml:lang="fi">MES -> Maidonkäsittely</name>
+    </relationship>
+
+    <relationship identifier="r5" xsi:type="Realization" source="app-S3" target="cap-C9">
+      <name xml:lang="fi">LIMS -> Laadunhallinta</name>
+    </relationship>
+
+    <relationship identifier="r6" xsi:type="Realization" source="app-S4" target="cap-C13">
+      <name xml:lang="fi">CRM -> Asiakashallinta</name>
+    </relationship>
+
+    <relationship identifier="r7" xsi:type="Realization" source="app-S5" target="cap-C11">
+      <name xml:lang="fi">WMS -> Varastonhallinta</name>
+    </relationship>
+
+    <relationship identifier="r8" xsi:type="Realization" source="app-S6" target="cap-C12">
+      <name xml:lang="fi">TMS -> Jakelu ja logistiikka</name>
+    </relationship>
+
+    <relationship identifier="r9" xsi:type="Realization" source="app-S7" target="cap-C2">
+      <name xml:lang="fi">PLM -> Tuote- ja portfolionhallinta</name>
+    </relationship>
+
+    <relationship identifier="r10" xsi:type="Realization" source="app-S8" target="cap-C21">
+      <name xml:lang="fi">BI -> Data ja raportointi</name>
+    </relationship>
+
+    <relationship identifier="r11" xsi:type="Realization" source="app-S10" target="cap-C20">
+      <name xml:lang="fi">EAM -> Laitteiden kunnossapito</name>
+    </relationship>
+
+    <relationship identifier="r12" xsi:type="Realization" source="app-S11" target="cap-C14">
+      <name xml:lang="fi">EDI -> Tilausten käsittely</name>
+    </relationship>
+
+    <relationship identifier="r13" xsi:type="Realization" source="app-S12" target="cap-C3">
+      <name xml:lang="fi">Sustainability_DB -> Vastuullisuus</name>
+    </relationship>
+
+    <!-- Data flows between applications (flows) -->
+    <relationship identifier="f1" xsi:type="Flow" source="app-S7" target="app-S1">
+      <name xml:lang="fi">Reseptit -> ERP</name>
+    </relationship>
+
+    <relationship identifier="f2" xsi:type="Flow" source="app-S1" target="app-S2">
+      <name xml:lang="fi">Tuotantotilaukset -> MES</name>
+    </relationship>
+
+    <relationship identifier="f3" xsi:type="Flow" source="app-S2" target="app-S1">
+      <name xml:lang="fi">Valmistusmäärät -> ERP</name>
+    </relationship>
+
+    <relationship identifier="f4" xsi:type="Flow" source="app-S2" target="app-S3">
+      <name xml:lang="fi">Näytetiedot -> LIMS</name>
+    </relationship>
+
+    <relationship identifier="f5" xsi:type="Flow" source="app-S3" target="app-S1">
+      <name xml:lang="fi">Laatutulos -> ERP</name>
+    </relationship>
+
+    <relationship identifier="f6" xsi:type="Flow" source="app-S1" target="app-S5">
+      <name xml:lang="fi">Varastosiirrot -> WMS</name>
+    </relationship>
+
+    <relationship identifier="f7" xsi:type="Flow" source="app-S5" target="app-S1">
+      <name xml:lang="fi">Saldo -> ERP</name>
+    </relationship>
+
+    <relationship identifier="f8" xsi:type="Flow" source="app-S1" target="app-S6">
+      <name xml:lang="fi">Lähetysmääräykset -> TMS</name>
+    </relationship>
+
+    <relationship identifier="f9" xsi:type="Flow" source="app-S4" target="app-S1">
+      <name xml:lang="fi">Myyntitilaukset -> ERP</name>
+    </relationship>
+
+    <relationship identifier="f10" xsi:type="Flow" source="app-S11" target="app-S1">
+      <name xml:lang="fi">EDI tilaussanomat -> ERP</name>
+    </relationship>
+
+    <relationship identifier="f11" xsi:type="Flow" source="app-S1" target="app-S11">
+      <name xml:lang="fi">Laskut -> EDI</name>
+    </relationship>
+
+    <relationship identifier="f12" xsi:type="Flow" source="app-S1" target="app-S8">
+      <name xml:lang="fi">Talousdata -> BI</name>
+    </relationship>
+
+    <relationship identifier="f13" xsi:type="Flow" source="app-S2" target="app-S8">
+      <name xml:lang="fi">Tuotantodata -> BI</name>
+    </relationship>
+
+    <relationship identifier="f14" xsi:type="Flow" source="app-S3" target="app-S8">
+      <name xml:lang="fi">Laatudata -> BI</name>
+    </relationship>
+
+    <relationship identifier="f15" xsi:type="Flow" source="app-S4" target="app-S8">
+      <name xml:lang="fi">Myyntidata -> BI</name>
+    </relationship>
+
+    <relationship identifier="f16" xsi:type="Flow" source="app-S1" target="app-S12">
+      <name xml:lang="fi">Hankintadata -> Sustainability_DB</name>
+    </relationship>
+
+    <relationship identifier="f17" xsi:type="Flow" source="app-S2" target="app-S12">
+      <name xml:lang="fi">Energiankulutus -> Sustainability_DB</name>
+    </relationship>
+
+    <relationship identifier="f18" xsi:type="Flow" source="app-S6" target="app-S12">
+      <name xml:lang="fi">Kuljetuspäästöt -> Sustainability_DB</name>
+    </relationship>
+
+    <!-- Access relationships (applications -> data) -->
+    <relationship identifier="a1" xsi:type="Access" source="app-S1" target="data-D8">
+      <name xml:lang="fi">ERP käyttää Taloustapahtumat</name>
+    </relationship>
+
+    <relationship identifier="a2" xsi:type="Access" source="app-S2" target="data-D3">
+      <name xml:lang="fi">MES käyttää Tuotantotilaukset</name>
+    </relationship>
+
+    <relationship identifier="a3" xsi:type="Access" source="app-S3" target="data-D4">
+      <name xml:lang="fi">LIMS kirjoittaa Laatutulokset</name>
+    </relationship>
+
+    <relationship identifier="a4" xsi:type="Access" source="app-S4" target="data-D6">
+      <name xml:lang="fi">CRM käyttää Asiakastiedot</name>
+    </relationship>
+
+    <relationship identifier="a5" xsi:type="Access" source="app-S5" target="data-D5">
+      <name xml:lang="fi">WMS hallinnoi Varastosaldot</name>
+    </relationship>
+
+  </relationships>
+  
+      <!-- PROPERTY DEFINITIONS (pakolliset, jotta propertyDefinitionRef toimii) -->
+  <propertyDefinitions>
+    <propertyDefinition identifier="propid-elinkaari" type="string">
+      <name>Elinkaari</name>
+    </propertyDefinition>
+
+    <propertyDefinition identifier="propid-omistaja" type="string">
+      <name>Omistaja</name>
+    </propertyDefinition>
+
+    <propertyDefinition identifier="propid-kuvaus" type="string">
+      <name>Kuvaus</name>
+    </propertyDefinition>
+  </propertyDefinitions>
+  
+</model>
